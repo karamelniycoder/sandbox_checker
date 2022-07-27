@@ -1,0 +1,1 @@
+напиши в cmd 'pip install -r requirements.txt' !!!!
